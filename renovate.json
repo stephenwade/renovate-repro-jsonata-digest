@@ -1,1 +1,13 @@
-{}
+{
+  "customManagers": [
+    {
+      "customType": "jsonata",
+      "managerFilePatterns": ["/^git-dependencies.yaml$/"],
+      "fileFormat": "yaml",
+      "matchStrings": [
+        "$[0].{ \"packageName\": uri, \"depName\": uri ~> $replace(/.*\\//, \"\"), \"currentValue\": branch, \"currentDigest\": checkout }"
+      ],
+      "datasourceTemplate": "git-refs"
+    }
+  ]
+}

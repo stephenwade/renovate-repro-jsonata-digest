@@ -1,17 +1,13 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# #36967
 
 ## Current behavior
 
-Explain the current behavior here.
+Renovate fails to create digest updates when using the JSONata custom manager.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate should successfully create digest updates when using the JSONata custom manager.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/36967

@@ -3,5 +3,5 @@
   checkout: 035164874c17ef7890f285827c8a56a7ab52d0f2
 
 - uri: https://github.com/OCA/website.git
-  branch: "18.0"
-  checkout: e62d6e3a2a19eb7dce6b7d633b512075c85b5a61
+  branch: "19.0"
+  checkout: acde08a315fcccd128d4040cfac0136056f4c73d

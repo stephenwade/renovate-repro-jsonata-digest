@@ -4,4 +4,4 @@
 
 - uri: https://github.com/OCA/website.git
   branch: "18.0"
-  checkout: e62d6e3a2a19eb7dce6b7d633b512075c85b5a61
+  checkout: 9e1ecc7a85b7f3353eba057df7c69677e0912268

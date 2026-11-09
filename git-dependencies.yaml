@@ -1,6 +1,6 @@
 - uri: https://github.com/OCA/queue.git
   branch: "18.0"
-  checkout: 035164874c17ef7890f285827c8a56a7ab52d0f2
+  checkout: 396a3cf4eaf6ad679dfff9d38ee60ed371e97007
 
 - uri: https://github.com/OCA/website.git
   branch: "18.0"
